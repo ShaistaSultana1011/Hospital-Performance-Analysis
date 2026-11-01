@@ -79,7 +79,7 @@ Analyze hospital patient data to evaluate operational performance, understand tr
 * **Python Analysis:** `Hospital_Data_Cleaning_and_EDA.ipynb`
 * **SQL Analysis:** `hospital_performance_Analysis.sql`
 * **Power BI Dashboard:** `Healthcare_Performance_Analytics.pbix`
-* **Dataset:** Hospital patient records dataset
+
 
 ---
 
