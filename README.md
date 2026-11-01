@@ -46,7 +46,7 @@ Analyze hospital patient data to evaluate operational performance, understand tr
 * Insurance coverage and patient payment analysis
 * Readmission rate analysis
 * Patient satisfaction analysis
-* Interactive dashboard development using Power BI
+
 
 ---
 
